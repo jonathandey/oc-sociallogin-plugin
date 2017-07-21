@@ -1,0 +1,1 @@
+This is a fork of the original library: https://bitbucket.org/flynsarmy/oc-sociallogin-plugin
